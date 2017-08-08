@@ -1,5 +1,7 @@
 ## Updating package.json
 
+FOOBAR TEST CHANGES DIFFERENCES
+
 At the beginning of each cohort, update the versions in package.json by:
 
 ```sh
